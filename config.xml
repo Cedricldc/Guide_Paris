@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns="http://www.w3.org/ns/widgets"
+xmlns:gap="http://phonegap.com/ns/1.0"
+id="fr.univ_paris8.exemple"
+version="1.0">
+
+	<name>Exemple</name>
+
+	<description>
+		Exemple du cours de développement mobile
+	</description>
+
+	<author href="http://www.univ-pairs8.fr"
+		email="gbesacier@univ-paris8.fr">
+		Guillaume Besacier
+	</author>
+
+	<icon src="icon.png" gap:role="default" />
+
+</widget>
